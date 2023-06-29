@@ -5,7 +5,7 @@ It's a study where you read and discuss books.
 
 *굵은 글씨는 완주자입니다.*
 
-### 1th Clean Code
+### 1st Clean Code
 
 |<img src="./.github/Collaborator_Image/RePro1202.png" width="100" height="100"/> |<img src="./.github/Collaborator_Image/NearthYou.png" width="100" height="100"/> | <img src="./.github/Collaborator_Image/hellog2n.png" width="100" height="100"/> | <img src="./.github/Collaborator_Image/FrenzyNight.png" width="100" height="100"/> | <img src="./.github/Collaborator_Image/fkdl0048.png" width="100" height="100"/> |
 |:---:|:---:|:---:|:---:|:---:| 
