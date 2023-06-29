@@ -3,12 +3,11 @@ It's a study where you read and discuss books.
 
 ## Collaborator
 
-### 1th
+### 1th Clean Code
 
-|<img src="./.github/Collaborator_Image/RePro1202.png" width="100" height="100"/> |<img src="./.github/Collaborator_Image/NearthYou.png" width="100" height="100"/> | |
-|:---:|:---:|:---:| 
-|@RePro1202|@NearthYou| |
-
+|<img src="./.github/Collaborator_Image/RePro1202.png" width="100" height="100"/> |<img src="./.github/Collaborator_Image/NearthYou.png" width="100" height="100"/> | <img src="./.github/Collaborator_Image/hellog2n.png" width="100" height="100"/> | <img src="./.github/Collaborator_Image/FrenzyNight.png" width="100" height="100"/> | <img src="./.github/Collaborator_Image/fkdl0048.png" width="100" height="100"/> |
+|:---:|:---:|:---:|:---:|:---:| 
+|🎓@RePro1202|@NearthYou|@hellog2n|@FrenzyNight|@fkdl0048|
 
 ## Wath? 
 
