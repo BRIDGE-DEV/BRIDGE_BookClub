@@ -14,7 +14,7 @@ It's a study where you read and discuss books.
 
 ...
 
-## Wath? 
+## What? 
 
 1. **한 싸이클**로 **개발**에 관련된 한 가지 책을 정합니다.
 2. 해당 책을 정해진 분량을 정해진 기간까지 읽고 **정리 및 느낀 점**을 작성합니다.
