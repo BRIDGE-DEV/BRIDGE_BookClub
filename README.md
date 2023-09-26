@@ -7,9 +7,12 @@ It's a study where you read and discuss books.
 
 ### 1st Clean Code
 
-|<img src="./.github/Collaborator_Image/RePro1202.png" width="100" height="100"/> |<img src="./.github/Collaborator_Image/NearthYou.png" width="100" height="100"/> | <img src="./.github/Collaborator_Image/hellog2n.png" width="100" height="100"/> | <img src="./.github/Collaborator_Image/FrenzyNight.png" width="100" height="100"/> | <img src="./.github/Collaborator_Image/fkdl0048.png" width="100" height="100"/> |
-|:---:|:---:|:---:|:---:|:---:| 
 |**@RePro1202**|@NearthYou|@hellog2n|@FrenzyNight|**@fkdl0048**|
+|:---:|:---:|:---:|:---:|:---:|
+
+### 2rd Refactoring
+
+...
 
 ## Wath? 
 
@@ -30,7 +33,7 @@ It's a study where you read and discuss books.
 ## How?
 
 1. OT 때 읽을 책을 **같이** 선정합니다.
-2. 격주 단위로 약 70~100쪽 분량 **약 4시간 정도** 집중하면 읽을 분량으로 선정합니다.
+2. 격주 단위로 약 100~120쪽 분량 **약 4시간 정도** 집중하면 읽을 분량으로 선정합니다.
 3. 정해진 시간, 장소에서 **온라인**에서 진행합니다.
 4. 각자 작성한 논의사을 기준으로 하고 싶은 내용을 **토론**합니다.
 
@@ -38,7 +41,7 @@ It's a study where you read and discuss books.
 * 정리 및 느낀 점은 자유입니다. 1줄만 작성하셔도 됩니다.
 * 마찬가지로 참여와 퇴장, 복귀는 자유입니다.
 * 논의 내용은 **권장 사항**입니다.
-* 온라인 모임은 게더타운 사용합니다. 마이크와 카메라는 필수는 아니지만 **권장 사항**입니다.  
+* 온라인 모임은 디스코드를 사용합니다. 마이크와 카메라는 필수는 아니지만 **권장 사항**입니다.  
 * OT는 한 싸이클이 종료되면 남은 인원들끼리 상의 후 다음 싸이클 시작 전에 생성됩니다.
 
 ## Rule
@@ -53,15 +56,9 @@ It's a study where you read and discuss books.
 
 *100% 자율로 굴러가는 스터디입니다.*
 
-## ETC
-
-[모임 레퍼런스](https://github.com/ThinkAboutSoftware/AcademicConference)
-
-매년 진행하는 아카데미 컨퍼런스라는 모임을 참고하였습니다.
-
 ## Q/A
 
-Q. 70~100쪽을 2주.. 너무 짧다  
+Q. 100~120쪽을 2주.. 너무 짧다  
 A. 개발관련 책은 에세이나 소설이 아니라 적은 분량으로 이야기할 내용도 많고 정리해야할 내용도 많다고 생각합니다.  
 ++ 시험기간에는 한 템포 쉬어갑니다.  
 *OT때 이야기를 해보고 분량을 같이 정함*  
