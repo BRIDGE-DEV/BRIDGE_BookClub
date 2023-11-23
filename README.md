@@ -21,6 +21,7 @@ It's a study where you read and discuss books.
 ### 3rd The Clean Coder
 
 |**[@fkdl0048](https://github.com/fkdl0048)**|**[@luz0415](https://github.com/luz0415)**|**[@wooyn730](https://github.com/wooyn730)**|
+|:---:|:---:|:---:|
 
 자세한 참여 내역은 [PR](https://github.com/BRIDGE-DEV/BRIDGE_BookClub/pulls?q=is%3Apr)이나 [Issues](https://github.com/BRIDGE-DEV/BRIDGE_BookClub/issues?q=is%3Aissue)를 통해 확인해주세요
 
@@ -92,10 +93,10 @@ A. 권장사항입니다. 사람마다 이해도가 다르거나 논의 내용�
 Q. 작성된 내용은 공개되나요?  
 A. 기본적으로 Public이고 동아리내 Organizaiton에서 진행하기 때문입니다.
 
-Q. 동아리 외부인이 참여할 수 있나요?
+Q. 동아리 외부인이 참여할 수 있나요?  
 A. 추천인으로 오시면 당연하게 참여하실 수 있습니다.
 
-Q. 생각보다 쉬워보이고 책을 각자 읽는 것이라면, 왜 스터디를 하나요?
+Q. 생각보다 쉬워보이고 책을 각자 읽는 것이라면, 왜 스터디를 하나요?  
 A. 생각보다 쉽지 않습니다. 500쪽 분량의 책이라고 했을 때, 약 4회 스프린트를 돌리기 때문에 8주동안 꾸준히 참여하고 읽어야 합니다. 또한, 책을 읽고 논의하는 것은 자신의 생각과 타인의 생각을 비교할 수 있기 때문에 매우 좋은 효과를 얻을 수 있습니다.
 
 ## How to participate
