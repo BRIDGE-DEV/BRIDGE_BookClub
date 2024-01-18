@@ -10,10 +10,10 @@ It's a study where you read and discuss books.
 
 ### 1st Clean Code
 
-|**[@RePro1202](https://github.com/RePro1202)**|**[@fkdl0048](https://github.com/fkdl0048)**|[@hellog2n](https://github.com/hellog2n)|[@FrenzyNight](https://github.com/FrenzyNight)|[@NearthYou](https://github.com/NearthYou)|
+|**[@fkdl0048](https://github.com/fkdl0048)**|**[@RePro1202](https://github.com/RePro1202)**|[@hellog2n](https://github.com/hellog2n)|[@FrenzyNight](https://github.com/FrenzyNight)|[@NearthYou](https://github.com/NearthYou)|
 |:---:|:---:|:---:|:---:|:---:|
 
-### 2rd Refactoring
+### 2nd Refactoring
 
 |**[@fkdl0048](https://github.com/fkdl0048)**|[@NearthYou](https://github.com/NearthYou)|[@RePro1202](https://github.com/RePro1202)|[@MakerJun46](https://github.com/MakerJun46)|[@yeonmo57](https://github.com/yeonmo57)|
 |:---:|:---:|:---:|:---:|:---:|
@@ -22,6 +22,11 @@ It's a study where you read and discuss books.
 
 |**[@fkdl0048](https://github.com/fkdl0048)**|**[@luz0415](https://github.com/luz0415)**|**[@wooyn730](https://github.com/wooyn730)**|
 |:---:|:---:|:---:|
+
+### 4th 객체지향의 사실과 오해
+
+|**[@fkdl0048](https://github.com/fkdl0048)**|**[@luz0415](https://github.com/luz0415)**|**[@wooyn730](https://github.com/wooyn730)**| [@joonyle99](https://github.com/joonyle99) |
+|:---:|:---:|:---:|:---:|
 
 자세한 참여 내역은 [PR](https://github.com/BRIDGE-DEV/BRIDGE_BookClub/pulls?q=is%3Apr)이나 [Issues](https://github.com/BRIDGE-DEV/BRIDGE_BookClub/issues?q=is%3Aissue)를 통해 확인해주세요
 
@@ -42,7 +47,7 @@ It's a study where you read and discuss books.
 
 만약 혼자 끝까지 책을 읽기 힘들다면 북클럽은 스프린트가 정해져 있기 때문에 나름의 압박감을 느낄 수 있습니다.
 
-*절대 강제는 아닙니다.*
+*강제성은 존재하지 않습니다.*
 
 ## How?
 
@@ -96,7 +101,8 @@ Q. 동아리 외부인이 참여할 수 있나요?
 A. 추천인으로 오시면 당연하게 참여하실 수 있습니다.
 
 Q. 생각보다 쉬워보이고 책을 각자 읽는 것이라면, 왜 스터디를 하나요?  
-A. 생각보다 쉽지 않습니다. 500쪽 분량의 책이라고 했을 때, 약 4회 스프린트를 돌리기 때문에 8주동안 꾸준히 참여하고 읽어야 합니다. 또한, 책을 읽고 논의하는 것은 자신의 생각과 타인의 생각을 비교할 수 있기 때문에 매우 좋은 효과를 얻을 수 있습니다.
+A. 생각보다 쉽지 않습니다. 500쪽 분량의 책이라고 했을 때, 약 4회 스프린트를 돌리기 때문에 8주동안 꾸준히 참여하고 읽어야 합니다.  
+   또한, 책을 읽고 논의하는 것은 자신의 생각과 타인의 생각을 비교할 수 있기 때문에 매우 좋은 효과를 얻을 수 있습니다.
 
 ## How to participate
 
@@ -109,5 +115,3 @@ A. 생각보다 쉽지 않습니다. 500쪽 분량의 책이라고 했을 때, �
 두 번째 방법은 진행 중인 책이 마음에 든다면 도중에 언제든지 의사를 밝혀주시고 참여해주시면 됩니다.
 
 진행중인 이슈에 글을 남겨주셔도 되고, 메일을 통해 저에게 말씀해주셔도 됩니다.
-
-*메일은 https://github.com/fkdl0048 깃허브 프로필에 기록되어 있습니다.*
