@@ -28,6 +28,11 @@ It's a study where you read and discuss books.
 |**[@fkdl0048](https://github.com/fkdl0048)**|**[@luz0415](https://github.com/luz0415)**|**[@wooyn730](https://github.com/wooyn730)**| [@joonyle99](https://github.com/joonyle99) |
 |:---:|:---:|:---:|:---:|
 
+### 5th 오브젝트
+
+|**[@fkdl0048](https://github.com/fkdl0048)**|**[@luz0415](https://github.com/luz0415)**|**[@wooyn730](https://github.com/wooyn730)**| **[@Barone12](https://github.com/Barone12)** | **[NearthYou](https://github.com/NearthYou)** |
+|:---:|:---:|:---:|:---:|
+
 자세한 참여 내역은 [PR](https://github.com/BRIDGE-DEV/BRIDGE_BookClub/pulls?q=is%3Apr)이나 [Issues](https://github.com/BRIDGE-DEV/BRIDGE_BookClub/issues?q=is%3Aissue)를 통해 확인해주세요
 
 </p>
