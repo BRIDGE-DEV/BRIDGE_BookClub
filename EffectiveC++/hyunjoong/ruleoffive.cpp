@@ -1,13 +1,14 @@
 // move semantic이 필요하다고요? 하...
 
 #include <iostream>
+#include <exception>
 
 class ruleoffive {
 public:
     char *p;
     static constexpr int SIZE = 10;
 
-    ruleoffive() noexcept
+    ruleoffive() noexcept //new가 실패하면 그냥 프로그램을 종료해버리겠다는 의지
     : p {new char[SIZE]}
     {
         std::cout << "ctor" << std::endl;
@@ -51,6 +52,7 @@ public:
 
 int main() {
     ruleoffive rof;
+    std::cout << "catch!";
 
     std::printf("before: %p\n", rof.p);
     ruleoffive rof2 = std::move(rof);
