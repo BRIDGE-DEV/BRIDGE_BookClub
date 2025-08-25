@@ -1,5 +1,6 @@
 # BRIDGE_BookClub
 It's a study where you read and discuss books.
+[DISCORD](https://discord.gg/7EEabMGAbE)
 
 ## Collaborator
 
