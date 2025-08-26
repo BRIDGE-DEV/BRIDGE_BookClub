@@ -49,6 +49,11 @@ It's a study where you read and discuss books.
 |**[@fkdl0048](https://github.com/fkdl0048)**| **[@rpopic](https://github.com/rpopic2)** | **[@Inyeong Gwak](https://github.com/swimmin99)** | **[@KES123450](https://github.com/KES123450)** |
 |:---:|:---:|:---:|:---:|
 
+### 9th A Tour of C++ Third Edition
+
+|**[@fkdl0048](https://github.com/fkdl0048)**| **[@rpopic](https://github.com/rpopic2)** | **[@Inyeong Gwak](https://github.com/swimmin99)** |
+|:---:|:---:|:---:|
+
 자세한 참여 내역은 [PR](https://github.com/BRIDGE-DEV/BRIDGE_BookClub/pulls?q=is%3Apr)이나 [Issues](https://github.com/BRIDGE-DEV/BRIDGE_BookClub/issues?q=is%3Aissue)를 통해 확인해주세요
 
 </p>
