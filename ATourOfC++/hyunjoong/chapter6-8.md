@@ -21,6 +21,25 @@
 
 만약 rust의 match expression을 가져온다면?
 
+```cpp
+vector<int> v;
+switch (m) {
+case zero:
+case zero:
+case zero:
+}
+```
+
+```cpp
+vector<int> v = [&] {
+    switch (m) {
+    case zero: return ...
+    case zero:
+    case zero:
+    }
+}
+```
+
 ```rust
 vector<int> v = match m {
     zero => vector<int>(n),
