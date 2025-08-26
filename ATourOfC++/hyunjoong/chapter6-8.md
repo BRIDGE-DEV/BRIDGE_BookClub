@@ -15,10 +15,6 @@
 
 = delete로 자동으로 생성자를 컴파일러가 만드는걸 막아주는 기능도 알아둬야 한다.
 
-explicit
-
-wait(100min)
-
 7.3.3.2
 
 솔직히 말해서 좀 괴기하긴 하다. rust에서 나오는 match expression을 따라하려고 한 것은 같은데..
@@ -56,7 +52,7 @@ vector<int> v = match m {
 c#에도 switch expression이 있다.
 
 ```c#
-vector<int> v = m switch {
+vector<int>v = m switch {
     zero => vector<int>(n),
     seq => vector<int>{p, q},
     cpy => arg,
@@ -93,25 +89,12 @@ p :: n * #sizeof int .alloc=>
 ~ p~ .free=>
 
 # 8.
-
 컨셉이라는 새로운 개념이 c++20에 등장하였는데..
 rust나 c#의 where T : 와 비슷한 느낌으로 나온거긴 한데, 훨씬 더 유연하다는 생각이 들긴 한다. 동시에 또 비교적 복잡하다는 생각도 든다.
 
 c#의 경우에는 너무 단순하게 클래스 상속 정도만 체크하는 느낌이지만, rust는 인터페이스가 Iterator, Copy, Eq 등 세분화 및 정의가 잘 돼있다. 그래서 그냥 where T: Iterator, U: Copy로 하면 T는 반복자가, U는 복사가 되는 얘들로 제한이 된다. 그리고 인터페이스로써 무엇을 할 수 있는지 정의가 되어 있으므로, 우리가 기존에 쓰던 코드와 크게 다르지 않은 문법으로 들어올 수 있는 타입에 제약을 걸 수 있는 것이다.
 
 그런데 c++의 컨셉은 문법이 새로 만들어졌다.
-
-struct X : Iterator, Eq, Compare, Drop, Debug... {
-
-}
-
-impl Eq for X {
-    fn eq(..){}
-}
-
-fn foo(Iterator i) {
-    
-}
 
 ```c++
 template<typename T, typename T2 = T>
